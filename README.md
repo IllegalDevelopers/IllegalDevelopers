@@ -1,5 +1,18 @@
+<h1 align="center">Hi 👋, I'm Illegal Developer</></h1>
+<h3 align="center">A passionate web and bot developer from India</h3>
+
 # 💫 About Me:
-Advance Auto Filter Bot<br>Bot Project<br>https://efficientintel.online<br>Cyber Security, Telegram Bot<br>IllegalDevelopers@gmail.com<br>I Think I Am Funny 😂
+- 🔭 I’m currently working on [Advance Auto Filter Bot](https://t.me/IllegalAutoFilterBot)
+
+- 👯 I’m looking to collaborate on **Bot Project**
+
+- 📝 I regularly write articles on [https://efficientintel.online](https://efficientintel.online)
+
+- 💬 Ask me about **Cyber Security, Bot Making, Wordpress,**
+
+- 📫 How to reach me **IllegalDevelopers@gmail.com**
+
+- ⚡ Fun fact **I Think I Am Funny 😂**
 
 
 ## 🌐 Socials:
